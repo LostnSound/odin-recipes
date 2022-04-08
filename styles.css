@@ -1,0 +1,20 @@
+* {
+    background-color: lightgrey;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 30%;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 30%;
+}
+
+.center {
+    text-align: center;
+    align-content: center;
+}
